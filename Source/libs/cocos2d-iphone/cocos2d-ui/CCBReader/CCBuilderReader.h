@@ -32,3 +32,5 @@
 #import "CCBAnimationManager.h"
 #import "CCAnimationManager.h"
 #import "CCBLocalizationManager.h"
+
+#import "CCAnimationManager+FrameAnimation.h"
