@@ -293,6 +293,24 @@
 }
 @end
 
+@implementation CCActionCallFuncO
+
++ (id) actionWithTarget: (id) t selector:(SEL) s object:(id)object {
+    return [[self alloc] initWithTarget:t selector:s object:object];
+}
+
+- (id) initWithTarget:(id) t selector:(SEL) s object:(id)object {
+    if( (self=[super initWithTarget:t selector:s] ) )
+        self.object = object;
+    return self;
+}
+
+- (void) execute {
+    typedef void (*Func)(id, SEL, id);
+    ((Func)objc_msgSend)(_targetCallback, _selector, _object);
+}  
+
+@end
 
 #pragma mark -
 #pragma mark Blocks

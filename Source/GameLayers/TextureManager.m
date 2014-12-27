@@ -34,9 +34,10 @@ static TextureManager *sharedTexture=nil;
 }
 
 +(id)sharedTextureManager{
-    if (sharedTexture==nil) {
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
         sharedTexture=[[TextureManager alloc] init];
-    }
+    });
     return sharedTexture;
 }
 
@@ -150,8 +151,8 @@ static TextureManager *sharedTexture=nil;
     spriteFrames=nil;
 }
 
--(void)dealloc{
-    [sharedTexture release];
+-(void)dealloc {
+    sharedTexture=nil;
     [self.allTextures removeAllObjects];
     self.allTextures=nil;
     [self.vehicleTextureArray removeAllObjects];
@@ -160,8 +161,6 @@ static TextureManager *sharedTexture=nil;
     self.batchTextures=nil;
     [self.animations removeAllObjects];
     self.animations=nil;
-    
-    [super dealloc];
 }
 
 @end

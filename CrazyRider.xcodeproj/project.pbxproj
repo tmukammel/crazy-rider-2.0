@@ -61,31 +61,31 @@
 		B77F1B4017B978D7009739AE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B77F1B3F17B978D7009739AE /* CoreGraphics.framework */; };
 		B77F1B4217B978D7009739AE /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B77F1B4117B978D7009739AE /* CoreText.framework */; };
 		B78A0B10198AF87200C63841 /* Published-Android in Resources */ = {isa = PBXBuildFile; fileRef = B78A0B0F198AF87200C63841 /* Published-Android */; };
-		F73FDDE51A3F8012001F7869 /* RVRPowerUpsAndPurchasesController.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDAE1A3F8012001F7869 /* RVRPowerUpsAndPurchasesController.m */; };
-		F73FDDE61A3F8012001F7869 /* RVRAudioManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDB11A3F8012001F7869 /* RVRAudioManager.m */; };
-		F73FDDE71A3F8012001F7869 /* DBPurchase.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDB41A3F8012001F7869 /* DBPurchase.m */; };
-		F73FDDE81A3F8012001F7869 /* DBUpgrades.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDB61A3F8012001F7869 /* DBUpgrades.m */; };
-		F73FDDE91A3F8012001F7869 /* DBUserData.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDB81A3F8012001F7869 /* DBUserData.m */; };
-		F73FDDEA1A3F8012001F7869 /* DBUserStatistics.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDBA1A3F8012001F7869 /* DBUserStatistics.m */; };
-		F73FDDEB1A3F8012001F7869 /* RVRDataBaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDBC1A3F8012001F7869 /* RVRDataBaseManager.m */; };
-		F73FDDEC1A3F8012001F7869 /* GameCenterDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDC01A3F8012001F7869 /* GameCenterDelegate.m */; };
-		F73FDDED1A3F8012001F7869 /* GameCenterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDC21A3F8012001F7869 /* GameCenterManager.m */; };
-		F73FDDEE1A3F8012001F7869 /* BikeLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDC51A3F8012001F7869 /* BikeLayer.m */; };
-		F73FDDEF1A3F8012001F7869 /* GameHud.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDC71A3F8012001F7869 /* GameHud.m */; };
-		F73FDDF01A3F8012001F7869 /* GameMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDC91A3F8012001F7869 /* GameMenu.m */; };
-		F73FDDF11A3F8012001F7869 /* GameNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDCB1A3F8012001F7869 /* GameNode.m */; };
-		F73FDDF21A3F8012001F7869 /* Obstacles.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDCE1A3F8012001F7869 /* Obstacles.m */; };
-		F73FDDF31A3F8012001F7869 /* PauseOrGameOverMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDD01A3F8012001F7869 /* PauseOrGameOverMenu.m */; };
-		F73FDDF41A3F8012001F7869 /* PowerUp.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDD21A3F8012001F7869 /* PowerUp.m */; };
-		F73FDDF51A3F8012001F7869 /* RVRCoin.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDD41A3F8012001F7869 /* RVRCoin.m */; };
-		F73FDDF61A3F8012001F7869 /* TextureManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDD61A3F8012001F7869 /* TextureManager.m */; };
-		F73FDDF71A3F8012001F7869 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDD91A3F8012001F7869 /* LoadingView.m */; };
-		F73FDDF81A3F8012001F7869 /* MKStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDDB1A3F8012001F7869 /* MKStoreManager.m */; };
-		F73FDDF91A3F8012001F7869 /* MKStoreObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDDD1A3F8012001F7869 /* MKStoreObserver.m */; };
-		F73FDDFA1A3F8012001F7869 /* RVRInAppPurchaseStore.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDDF1A3F8012001F7869 /* RVRInAppPurchaseStore.m */; };
-		F73FDDFB1A3F8012001F7869 /* UIDevice-Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDE11A3F8012001F7869 /* UIDevice-Reachability.m */; };
-		F73FDDFC1A3F8012001F7869 /* RVRPowerUpsAndPurchasesStore.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDE41A3F8012001F7869 /* RVRPowerUpsAndPurchasesStore.m */; };
-		F73FDE001A3F860C001F7869 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F73FDDFF1A3F860C001F7869 /* RootViewController.m */; };
+		F71E1ED91A44A646001DD4DA /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1ED81A44A646001DD4DA /* RootViewController.m */; };
+		F71E1F131A44A659001DD4DA /* RVRPowerUpsAndPurchasesController.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EDC1A44A659001DD4DA /* RVRPowerUpsAndPurchasesController.m */; };
+		F71E1F141A44A659001DD4DA /* RVRAudioManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EDF1A44A659001DD4DA /* RVRAudioManager.m */; };
+		F71E1F151A44A659001DD4DA /* DBPurchase.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EE21A44A659001DD4DA /* DBPurchase.m */; };
+		F71E1F161A44A659001DD4DA /* DBUpgrades.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EE41A44A659001DD4DA /* DBUpgrades.m */; };
+		F71E1F171A44A659001DD4DA /* DBUserData.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EE61A44A659001DD4DA /* DBUserData.m */; };
+		F71E1F181A44A659001DD4DA /* DBUserStatistics.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EE81A44A659001DD4DA /* DBUserStatistics.m */; };
+		F71E1F191A44A659001DD4DA /* RVRDataBaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EEA1A44A659001DD4DA /* RVRDataBaseManager.m */; };
+		F71E1F1A1A44A659001DD4DA /* GameCenterDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EEE1A44A659001DD4DA /* GameCenterDelegate.m */; };
+		F71E1F1B1A44A659001DD4DA /* GameCenterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EF01A44A659001DD4DA /* GameCenterManager.m */; };
+		F71E1F1C1A44A659001DD4DA /* BikeLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EF31A44A659001DD4DA /* BikeLayer.m */; };
+		F71E1F1D1A44A659001DD4DA /* GameHud.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EF51A44A659001DD4DA /* GameHud.m */; };
+		F71E1F1E1A44A659001DD4DA /* GameMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EF71A44A659001DD4DA /* GameMenu.m */; };
+		F71E1F1F1A44A659001DD4DA /* GameNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EF91A44A659001DD4DA /* GameNode.m */; };
+		F71E1F201A44A659001DD4DA /* Obstacles.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EFC1A44A659001DD4DA /* Obstacles.m */; };
+		F71E1F211A44A659001DD4DA /* PauseOrGameOverMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1EFE1A44A659001DD4DA /* PauseOrGameOverMenu.m */; };
+		F71E1F221A44A659001DD4DA /* PowerUp.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F001A44A659001DD4DA /* PowerUp.m */; };
+		F71E1F231A44A659001DD4DA /* RVRCoin.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F021A44A659001DD4DA /* RVRCoin.m */; };
+		F71E1F241A44A659001DD4DA /* TextureManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F041A44A659001DD4DA /* TextureManager.m */; };
+		F71E1F251A44A659001DD4DA /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F071A44A659001DD4DA /* LoadingView.m */; };
+		F71E1F261A44A659001DD4DA /* MKStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F091A44A659001DD4DA /* MKStoreManager.m */; };
+		F71E1F271A44A659001DD4DA /* MKStoreObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F0B1A44A659001DD4DA /* MKStoreObserver.m */; };
+		F71E1F281A44A659001DD4DA /* RVRInAppPurchaseStore.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F0D1A44A659001DD4DA /* RVRInAppPurchaseStore.m */; };
+		F71E1F291A44A659001DD4DA /* UIDevice-Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F0F1A44A659001DD4DA /* UIDevice-Reachability.m */; };
+		F71E1F2A1A44A659001DD4DA /* RVRPowerUpsAndPurchasesStore.m in Sources */ = {isa = PBXBuildFile; fileRef = F71E1F121A44A659001DD4DA /* RVRPowerUpsAndPurchasesStore.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -145,6 +145,13 @@
 			remoteGlobalIDString = 5018F24C0DFDEAC400C013A5;
 			remoteInfo = cocos2d;
 		};
+		F71E1ED51A44A495001DD4DA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B7378940180761A80076A88C /* cocos2d-ios.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 7A4037A819E37038007B6E8F;
+			remoteInfo = "cocos2d-mac";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -197,58 +204,58 @@
 		B77F1B4117B978D7009739AE /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		B78A0B0F198AF87200C63841 /* Published-Android */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Published-Android"; sourceTree = "<group>"; };
 		B7B3713D180358F1007369CC /* libObjectiveChipmunk.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libObjectiveChipmunk.a; path = "../libs/cocos2d-iphone/external/Chipmunk/xcode/build/Debug-iphoneos/libObjectiveChipmunk.a"; sourceTree = "<group>"; };
-		F73FDDAD1A3F8012001F7869 /* RVRPowerUpsAndPurchasesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRPowerUpsAndPurchasesController.h; sourceTree = "<group>"; };
-		F73FDDAE1A3F8012001F7869 /* RVRPowerUpsAndPurchasesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRPowerUpsAndPurchasesController.m; sourceTree = "<group>"; };
-		F73FDDB01A3F8012001F7869 /* RVRAudioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRAudioManager.h; sourceTree = "<group>"; };
-		F73FDDB11A3F8012001F7869 /* RVRAudioManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRAudioManager.m; sourceTree = "<group>"; };
-		F73FDDB31A3F8012001F7869 /* DBPurchase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBPurchase.h; sourceTree = "<group>"; };
-		F73FDDB41A3F8012001F7869 /* DBPurchase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBPurchase.m; sourceTree = "<group>"; };
-		F73FDDB51A3F8012001F7869 /* DBUpgrades.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBUpgrades.h; sourceTree = "<group>"; };
-		F73FDDB61A3F8012001F7869 /* DBUpgrades.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBUpgrades.m; sourceTree = "<group>"; };
-		F73FDDB71A3F8012001F7869 /* DBUserData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBUserData.h; sourceTree = "<group>"; };
-		F73FDDB81A3F8012001F7869 /* DBUserData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBUserData.m; sourceTree = "<group>"; };
-		F73FDDB91A3F8012001F7869 /* DBUserStatistics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBUserStatistics.h; sourceTree = "<group>"; };
-		F73FDDBA1A3F8012001F7869 /* DBUserStatistics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBUserStatistics.m; sourceTree = "<group>"; };
-		F73FDDBB1A3F8012001F7869 /* RVRDataBaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRDataBaseManager.h; sourceTree = "<group>"; };
-		F73FDDBC1A3F8012001F7869 /* RVRDataBaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRDataBaseManager.m; sourceTree = "<group>"; };
-		F73FDDBE1A3F8012001F7869 /* AppSpecificValues.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppSpecificValues.h; sourceTree = "<group>"; };
-		F73FDDBF1A3F8012001F7869 /* GameCenterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameCenterDelegate.h; sourceTree = "<group>"; };
-		F73FDDC01A3F8012001F7869 /* GameCenterDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameCenterDelegate.m; sourceTree = "<group>"; };
-		F73FDDC11A3F8012001F7869 /* GameCenterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameCenterManager.h; sourceTree = "<group>"; };
-		F73FDDC21A3F8012001F7869 /* GameCenterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameCenterManager.m; sourceTree = "<group>"; };
-		F73FDDC41A3F8012001F7869 /* BikeLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BikeLayer.h; sourceTree = "<group>"; };
-		F73FDDC51A3F8012001F7869 /* BikeLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BikeLayer.m; sourceTree = "<group>"; };
-		F73FDDC61A3F8012001F7869 /* GameHud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameHud.h; sourceTree = "<group>"; };
-		F73FDDC71A3F8012001F7869 /* GameHud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameHud.m; sourceTree = "<group>"; };
-		F73FDDC81A3F8012001F7869 /* GameMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameMenu.h; sourceTree = "<group>"; };
-		F73FDDC91A3F8012001F7869 /* GameMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameMenu.m; sourceTree = "<group>"; };
-		F73FDDCA1A3F8012001F7869 /* GameNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameNode.h; sourceTree = "<group>"; };
-		F73FDDCB1A3F8012001F7869 /* GameNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameNode.m; sourceTree = "<group>"; };
-		F73FDDCC1A3F8012001F7869 /* GamePlayObserverDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamePlayObserverDelegateProtocol.h; sourceTree = "<group>"; };
-		F73FDDCD1A3F8012001F7869 /* Obstacles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Obstacles.h; sourceTree = "<group>"; };
-		F73FDDCE1A3F8012001F7869 /* Obstacles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Obstacles.m; sourceTree = "<group>"; };
-		F73FDDCF1A3F8012001F7869 /* PauseOrGameOverMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PauseOrGameOverMenu.h; sourceTree = "<group>"; };
-		F73FDDD01A3F8012001F7869 /* PauseOrGameOverMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PauseOrGameOverMenu.m; sourceTree = "<group>"; };
-		F73FDDD11A3F8012001F7869 /* PowerUp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PowerUp.h; sourceTree = "<group>"; };
-		F73FDDD21A3F8012001F7869 /* PowerUp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PowerUp.m; sourceTree = "<group>"; };
-		F73FDDD31A3F8012001F7869 /* RVRCoin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRCoin.h; sourceTree = "<group>"; };
-		F73FDDD41A3F8012001F7869 /* RVRCoin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRCoin.m; sourceTree = "<group>"; };
-		F73FDDD51A3F8012001F7869 /* TextureManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextureManager.h; sourceTree = "<group>"; };
-		F73FDDD61A3F8012001F7869 /* TextureManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextureManager.m; sourceTree = "<group>"; };
-		F73FDDD81A3F8012001F7869 /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
-		F73FDDD91A3F8012001F7869 /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
-		F73FDDDA1A3F8012001F7869 /* MKStoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKStoreManager.h; sourceTree = "<group>"; };
-		F73FDDDB1A3F8012001F7869 /* MKStoreManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKStoreManager.m; sourceTree = "<group>"; };
-		F73FDDDC1A3F8012001F7869 /* MKStoreObserver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKStoreObserver.h; sourceTree = "<group>"; };
-		F73FDDDD1A3F8012001F7869 /* MKStoreObserver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKStoreObserver.m; sourceTree = "<group>"; };
-		F73FDDDE1A3F8012001F7869 /* RVRInAppPurchaseStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRInAppPurchaseStore.h; sourceTree = "<group>"; };
-		F73FDDDF1A3F8012001F7869 /* RVRInAppPurchaseStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRInAppPurchaseStore.m; sourceTree = "<group>"; };
-		F73FDDE01A3F8012001F7869 /* UIDevice-Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice-Reachability.h"; sourceTree = "<group>"; };
-		F73FDDE11A3F8012001F7869 /* UIDevice-Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice-Reachability.m"; sourceTree = "<group>"; };
-		F73FDDE31A3F8012001F7869 /* RVRPowerUpsAndPurchasesStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRPowerUpsAndPurchasesStore.h; sourceTree = "<group>"; };
-		F73FDDE41A3F8012001F7869 /* RVRPowerUpsAndPurchasesStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRPowerUpsAndPurchasesStore.m; sourceTree = "<group>"; };
-		F73FDDFE1A3F860C001F7869 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		F73FDDFF1A3F860C001F7869 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		F71E1ED71A44A646001DD4DA /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		F71E1ED81A44A646001DD4DA /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		F71E1EDB1A44A659001DD4DA /* RVRPowerUpsAndPurchasesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRPowerUpsAndPurchasesController.h; sourceTree = "<group>"; };
+		F71E1EDC1A44A659001DD4DA /* RVRPowerUpsAndPurchasesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRPowerUpsAndPurchasesController.m; sourceTree = "<group>"; };
+		F71E1EDE1A44A659001DD4DA /* RVRAudioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRAudioManager.h; sourceTree = "<group>"; };
+		F71E1EDF1A44A659001DD4DA /* RVRAudioManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRAudioManager.m; sourceTree = "<group>"; };
+		F71E1EE11A44A659001DD4DA /* DBPurchase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBPurchase.h; sourceTree = "<group>"; };
+		F71E1EE21A44A659001DD4DA /* DBPurchase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBPurchase.m; sourceTree = "<group>"; };
+		F71E1EE31A44A659001DD4DA /* DBUpgrades.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBUpgrades.h; sourceTree = "<group>"; };
+		F71E1EE41A44A659001DD4DA /* DBUpgrades.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBUpgrades.m; sourceTree = "<group>"; };
+		F71E1EE51A44A659001DD4DA /* DBUserData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBUserData.h; sourceTree = "<group>"; };
+		F71E1EE61A44A659001DD4DA /* DBUserData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBUserData.m; sourceTree = "<group>"; };
+		F71E1EE71A44A659001DD4DA /* DBUserStatistics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBUserStatistics.h; sourceTree = "<group>"; };
+		F71E1EE81A44A659001DD4DA /* DBUserStatistics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBUserStatistics.m; sourceTree = "<group>"; };
+		F71E1EE91A44A659001DD4DA /* RVRDataBaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRDataBaseManager.h; sourceTree = "<group>"; };
+		F71E1EEA1A44A659001DD4DA /* RVRDataBaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRDataBaseManager.m; sourceTree = "<group>"; };
+		F71E1EEC1A44A659001DD4DA /* AppSpecificValues.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppSpecificValues.h; sourceTree = "<group>"; };
+		F71E1EED1A44A659001DD4DA /* GameCenterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameCenterDelegate.h; sourceTree = "<group>"; };
+		F71E1EEE1A44A659001DD4DA /* GameCenterDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameCenterDelegate.m; sourceTree = "<group>"; };
+		F71E1EEF1A44A659001DD4DA /* GameCenterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameCenterManager.h; sourceTree = "<group>"; };
+		F71E1EF01A44A659001DD4DA /* GameCenterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameCenterManager.m; sourceTree = "<group>"; };
+		F71E1EF21A44A659001DD4DA /* BikeLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BikeLayer.h; sourceTree = "<group>"; };
+		F71E1EF31A44A659001DD4DA /* BikeLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BikeLayer.m; sourceTree = "<group>"; };
+		F71E1EF41A44A659001DD4DA /* GameHud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameHud.h; sourceTree = "<group>"; };
+		F71E1EF51A44A659001DD4DA /* GameHud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameHud.m; sourceTree = "<group>"; };
+		F71E1EF61A44A659001DD4DA /* GameMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameMenu.h; sourceTree = "<group>"; };
+		F71E1EF71A44A659001DD4DA /* GameMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameMenu.m; sourceTree = "<group>"; };
+		F71E1EF81A44A659001DD4DA /* GameNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameNode.h; sourceTree = "<group>"; };
+		F71E1EF91A44A659001DD4DA /* GameNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameNode.m; sourceTree = "<group>"; };
+		F71E1EFA1A44A659001DD4DA /* GamePlayObserverDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamePlayObserverDelegateProtocol.h; sourceTree = "<group>"; };
+		F71E1EFB1A44A659001DD4DA /* Obstacles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Obstacles.h; sourceTree = "<group>"; };
+		F71E1EFC1A44A659001DD4DA /* Obstacles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Obstacles.m; sourceTree = "<group>"; };
+		F71E1EFD1A44A659001DD4DA /* PauseOrGameOverMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PauseOrGameOverMenu.h; sourceTree = "<group>"; };
+		F71E1EFE1A44A659001DD4DA /* PauseOrGameOverMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PauseOrGameOverMenu.m; sourceTree = "<group>"; };
+		F71E1EFF1A44A659001DD4DA /* PowerUp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PowerUp.h; sourceTree = "<group>"; };
+		F71E1F001A44A659001DD4DA /* PowerUp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PowerUp.m; sourceTree = "<group>"; };
+		F71E1F011A44A659001DD4DA /* RVRCoin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRCoin.h; sourceTree = "<group>"; };
+		F71E1F021A44A659001DD4DA /* RVRCoin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRCoin.m; sourceTree = "<group>"; };
+		F71E1F031A44A659001DD4DA /* TextureManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextureManager.h; sourceTree = "<group>"; };
+		F71E1F041A44A659001DD4DA /* TextureManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextureManager.m; sourceTree = "<group>"; };
+		F71E1F061A44A659001DD4DA /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
+		F71E1F071A44A659001DD4DA /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
+		F71E1F081A44A659001DD4DA /* MKStoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKStoreManager.h; sourceTree = "<group>"; };
+		F71E1F091A44A659001DD4DA /* MKStoreManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKStoreManager.m; sourceTree = "<group>"; };
+		F71E1F0A1A44A659001DD4DA /* MKStoreObserver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKStoreObserver.h; sourceTree = "<group>"; };
+		F71E1F0B1A44A659001DD4DA /* MKStoreObserver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKStoreObserver.m; sourceTree = "<group>"; };
+		F71E1F0C1A44A659001DD4DA /* RVRInAppPurchaseStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRInAppPurchaseStore.h; sourceTree = "<group>"; };
+		F71E1F0D1A44A659001DD4DA /* RVRInAppPurchaseStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRInAppPurchaseStore.m; sourceTree = "<group>"; };
+		F71E1F0E1A44A659001DD4DA /* UIDevice-Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice-Reachability.h"; sourceTree = "<group>"; };
+		F71E1F0F1A44A659001DD4DA /* UIDevice-Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice-Reachability.m"; sourceTree = "<group>"; };
+		F71E1F111A44A659001DD4DA /* RVRPowerUpsAndPurchasesStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RVRPowerUpsAndPurchasesStore.h; sourceTree = "<group>"; };
+		F71E1F121A44A659001DD4DA /* RVRPowerUpsAndPurchasesStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RVRPowerUpsAndPurchasesStore.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -382,17 +389,17 @@
 			isa = PBXGroup;
 			children = (
 				5B12101719748413004C1E1D /* java */,
-				F73FDDAC1A3F8012001F7869 /* AppFeatures */,
-				F73FDDAF1A3F8012001F7869 /* Audio Playback Controller Kit */,
-				F73FDDB21A3F8012001F7869 /* DataBase Management Kit */,
-				F73FDDBD1A3F8012001F7869 /* Gamecenter Manager Kit */,
-				F73FDDC31A3F8012001F7869 /* GameLayers */,
-				F73FDDD71A3F8012001F7869 /* InAppPurchase Controller Kit */,
-				F73FDDE21A3F8012001F7869 /* Store */,
+				F71E1EDA1A44A659001DD4DA /* AppFeatures */,
+				F71E1EDD1A44A659001DD4DA /* Audio Playback Controller Kit */,
+				F71E1EE01A44A659001DD4DA /* DataBase Management Kit */,
+				F71E1EEB1A44A659001DD4DA /* Gamecenter Manager Kit */,
+				F71E1EF11A44A659001DD4DA /* GameLayers */,
+				F71E1F051A44A659001DD4DA /* InAppPurchase Controller Kit */,
+				F71E1F101A44A659001DD4DA /* Store */,
 				B737893D1807617C0076A88C /* AppDelegate.h */,
 				B737893E1807617C0076A88C /* AppDelegate.m */,
-				F73FDDFE1A3F860C001F7869 /* RootViewController.h */,
-				F73FDDFF1A3F860C001F7869 /* RootViewController.m */,
+				F71E1ED71A44A646001DD4DA /* RootViewController.h */,
+				F71E1ED81A44A646001DD4DA /* RootViewController.m */,
 				5B12102E197484FA004C1E1D /* CrazyRiderActivity.h */,
 				5B12102F197484FA004C1E1D /* CrazyRiderActivity.m */,
 				B7378992180767190076A88C /* MainScene.h */,
@@ -407,6 +414,7 @@
 				B737894B180761A90076A88C /* libcocos2d.a */,
 				5B121001197481CE004C1E1D /* libcocos2dAndroid.a */,
 				5B121003197481CE004C1E1D /* cocos2dJava.jar */,
+				F71E1ED61A44A495001DD4DA /* libcocos2d-mac.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -498,107 +506,107 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		F73FDDAC1A3F8012001F7869 /* AppFeatures */ = {
+		F71E1EDA1A44A659001DD4DA /* AppFeatures */ = {
 			isa = PBXGroup;
 			children = (
-				F73FDDAD1A3F8012001F7869 /* RVRPowerUpsAndPurchasesController.h */,
-				F73FDDAE1A3F8012001F7869 /* RVRPowerUpsAndPurchasesController.m */,
+				F71E1EDB1A44A659001DD4DA /* RVRPowerUpsAndPurchasesController.h */,
+				F71E1EDC1A44A659001DD4DA /* RVRPowerUpsAndPurchasesController.m */,
 			);
 			name = AppFeatures;
 			path = Source/AppFeatures;
 			sourceTree = "<group>";
 		};
-		F73FDDAF1A3F8012001F7869 /* Audio Playback Controller Kit */ = {
+		F71E1EDD1A44A659001DD4DA /* Audio Playback Controller Kit */ = {
 			isa = PBXGroup;
 			children = (
-				F73FDDB01A3F8012001F7869 /* RVRAudioManager.h */,
-				F73FDDB11A3F8012001F7869 /* RVRAudioManager.m */,
+				F71E1EDE1A44A659001DD4DA /* RVRAudioManager.h */,
+				F71E1EDF1A44A659001DD4DA /* RVRAudioManager.m */,
 			);
 			name = "Audio Playback Controller Kit";
 			path = "Source/Audio Playback Controller Kit";
 			sourceTree = "<group>";
 		};
-		F73FDDB21A3F8012001F7869 /* DataBase Management Kit */ = {
+		F71E1EE01A44A659001DD4DA /* DataBase Management Kit */ = {
 			isa = PBXGroup;
 			children = (
-				F73FDDB31A3F8012001F7869 /* DBPurchase.h */,
-				F73FDDB41A3F8012001F7869 /* DBPurchase.m */,
-				F73FDDB51A3F8012001F7869 /* DBUpgrades.h */,
-				F73FDDB61A3F8012001F7869 /* DBUpgrades.m */,
-				F73FDDB71A3F8012001F7869 /* DBUserData.h */,
-				F73FDDB81A3F8012001F7869 /* DBUserData.m */,
-				F73FDDB91A3F8012001F7869 /* DBUserStatistics.h */,
-				F73FDDBA1A3F8012001F7869 /* DBUserStatistics.m */,
-				F73FDDBB1A3F8012001F7869 /* RVRDataBaseManager.h */,
-				F73FDDBC1A3F8012001F7869 /* RVRDataBaseManager.m */,
+				F71E1EE11A44A659001DD4DA /* DBPurchase.h */,
+				F71E1EE21A44A659001DD4DA /* DBPurchase.m */,
+				F71E1EE31A44A659001DD4DA /* DBUpgrades.h */,
+				F71E1EE41A44A659001DD4DA /* DBUpgrades.m */,
+				F71E1EE51A44A659001DD4DA /* DBUserData.h */,
+				F71E1EE61A44A659001DD4DA /* DBUserData.m */,
+				F71E1EE71A44A659001DD4DA /* DBUserStatistics.h */,
+				F71E1EE81A44A659001DD4DA /* DBUserStatistics.m */,
+				F71E1EE91A44A659001DD4DA /* RVRDataBaseManager.h */,
+				F71E1EEA1A44A659001DD4DA /* RVRDataBaseManager.m */,
 			);
 			name = "DataBase Management Kit";
 			path = "Source/DataBase Management Kit";
 			sourceTree = "<group>";
 		};
-		F73FDDBD1A3F8012001F7869 /* Gamecenter Manager Kit */ = {
+		F71E1EEB1A44A659001DD4DA /* Gamecenter Manager Kit */ = {
 			isa = PBXGroup;
 			children = (
-				F73FDDBE1A3F8012001F7869 /* AppSpecificValues.h */,
-				F73FDDBF1A3F8012001F7869 /* GameCenterDelegate.h */,
-				F73FDDC01A3F8012001F7869 /* GameCenterDelegate.m */,
-				F73FDDC11A3F8012001F7869 /* GameCenterManager.h */,
-				F73FDDC21A3F8012001F7869 /* GameCenterManager.m */,
+				F71E1EEC1A44A659001DD4DA /* AppSpecificValues.h */,
+				F71E1EED1A44A659001DD4DA /* GameCenterDelegate.h */,
+				F71E1EEE1A44A659001DD4DA /* GameCenterDelegate.m */,
+				F71E1EEF1A44A659001DD4DA /* GameCenterManager.h */,
+				F71E1EF01A44A659001DD4DA /* GameCenterManager.m */,
 			);
 			name = "Gamecenter Manager Kit";
 			path = "Source/Gamecenter Manager Kit";
 			sourceTree = "<group>";
 		};
-		F73FDDC31A3F8012001F7869 /* GameLayers */ = {
+		F71E1EF11A44A659001DD4DA /* GameLayers */ = {
 			isa = PBXGroup;
 			children = (
-				F73FDDC41A3F8012001F7869 /* BikeLayer.h */,
-				F73FDDC51A3F8012001F7869 /* BikeLayer.m */,
-				F73FDDC61A3F8012001F7869 /* GameHud.h */,
-				F73FDDC71A3F8012001F7869 /* GameHud.m */,
-				F73FDDC81A3F8012001F7869 /* GameMenu.h */,
-				F73FDDC91A3F8012001F7869 /* GameMenu.m */,
-				F73FDDCA1A3F8012001F7869 /* GameNode.h */,
-				F73FDDCB1A3F8012001F7869 /* GameNode.m */,
-				F73FDDCC1A3F8012001F7869 /* GamePlayObserverDelegateProtocol.h */,
-				F73FDDCD1A3F8012001F7869 /* Obstacles.h */,
-				F73FDDCE1A3F8012001F7869 /* Obstacles.m */,
-				F73FDDCF1A3F8012001F7869 /* PauseOrGameOverMenu.h */,
-				F73FDDD01A3F8012001F7869 /* PauseOrGameOverMenu.m */,
-				F73FDDD11A3F8012001F7869 /* PowerUp.h */,
-				F73FDDD21A3F8012001F7869 /* PowerUp.m */,
-				F73FDDD31A3F8012001F7869 /* RVRCoin.h */,
-				F73FDDD41A3F8012001F7869 /* RVRCoin.m */,
-				F73FDDD51A3F8012001F7869 /* TextureManager.h */,
-				F73FDDD61A3F8012001F7869 /* TextureManager.m */,
+				F71E1EF21A44A659001DD4DA /* BikeLayer.h */,
+				F71E1EF31A44A659001DD4DA /* BikeLayer.m */,
+				F71E1EF41A44A659001DD4DA /* GameHud.h */,
+				F71E1EF51A44A659001DD4DA /* GameHud.m */,
+				F71E1EF61A44A659001DD4DA /* GameMenu.h */,
+				F71E1EF71A44A659001DD4DA /* GameMenu.m */,
+				F71E1EF81A44A659001DD4DA /* GameNode.h */,
+				F71E1EF91A44A659001DD4DA /* GameNode.m */,
+				F71E1EFA1A44A659001DD4DA /* GamePlayObserverDelegateProtocol.h */,
+				F71E1EFB1A44A659001DD4DA /* Obstacles.h */,
+				F71E1EFC1A44A659001DD4DA /* Obstacles.m */,
+				F71E1EFD1A44A659001DD4DA /* PauseOrGameOverMenu.h */,
+				F71E1EFE1A44A659001DD4DA /* PauseOrGameOverMenu.m */,
+				F71E1EFF1A44A659001DD4DA /* PowerUp.h */,
+				F71E1F001A44A659001DD4DA /* PowerUp.m */,
+				F71E1F011A44A659001DD4DA /* RVRCoin.h */,
+				F71E1F021A44A659001DD4DA /* RVRCoin.m */,
+				F71E1F031A44A659001DD4DA /* TextureManager.h */,
+				F71E1F041A44A659001DD4DA /* TextureManager.m */,
 			);
 			name = GameLayers;
 			path = Source/GameLayers;
 			sourceTree = "<group>";
 		};
-		F73FDDD71A3F8012001F7869 /* InAppPurchase Controller Kit */ = {
+		F71E1F051A44A659001DD4DA /* InAppPurchase Controller Kit */ = {
 			isa = PBXGroup;
 			children = (
-				F73FDDD81A3F8012001F7869 /* LoadingView.h */,
-				F73FDDD91A3F8012001F7869 /* LoadingView.m */,
-				F73FDDDA1A3F8012001F7869 /* MKStoreManager.h */,
-				F73FDDDB1A3F8012001F7869 /* MKStoreManager.m */,
-				F73FDDDC1A3F8012001F7869 /* MKStoreObserver.h */,
-				F73FDDDD1A3F8012001F7869 /* MKStoreObserver.m */,
-				F73FDDDE1A3F8012001F7869 /* RVRInAppPurchaseStore.h */,
-				F73FDDDF1A3F8012001F7869 /* RVRInAppPurchaseStore.m */,
-				F73FDDE01A3F8012001F7869 /* UIDevice-Reachability.h */,
-				F73FDDE11A3F8012001F7869 /* UIDevice-Reachability.m */,
+				F71E1F061A44A659001DD4DA /* LoadingView.h */,
+				F71E1F071A44A659001DD4DA /* LoadingView.m */,
+				F71E1F081A44A659001DD4DA /* MKStoreManager.h */,
+				F71E1F091A44A659001DD4DA /* MKStoreManager.m */,
+				F71E1F0A1A44A659001DD4DA /* MKStoreObserver.h */,
+				F71E1F0B1A44A659001DD4DA /* MKStoreObserver.m */,
+				F71E1F0C1A44A659001DD4DA /* RVRInAppPurchaseStore.h */,
+				F71E1F0D1A44A659001DD4DA /* RVRInAppPurchaseStore.m */,
+				F71E1F0E1A44A659001DD4DA /* UIDevice-Reachability.h */,
+				F71E1F0F1A44A659001DD4DA /* UIDevice-Reachability.m */,
 			);
 			name = "InAppPurchase Controller Kit";
 			path = "Source/InAppPurchase Controller Kit";
 			sourceTree = "<group>";
 		};
-		F73FDDE21A3F8012001F7869 /* Store */ = {
+		F71E1F101A44A659001DD4DA /* Store */ = {
 			isa = PBXGroup;
 			children = (
-				F73FDDE31A3F8012001F7869 /* RVRPowerUpsAndPurchasesStore.h */,
-				F73FDDE41A3F8012001F7869 /* RVRPowerUpsAndPurchasesStore.m */,
+				F71E1F111A44A659001DD4DA /* RVRPowerUpsAndPurchasesStore.h */,
+				F71E1F121A44A659001DD4DA /* RVRPowerUpsAndPurchasesStore.m */,
 			);
 			name = Store;
 			path = Source/Store;
@@ -730,6 +738,13 @@
 			remoteRef = B737894A180761A90076A88C /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		F71E1ED61A44A495001DD4DA /* libcocos2d-mac.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libcocos2d-mac.a";
+			remoteRef = F71E1ED51A44A495001DD4DA /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
@@ -832,34 +847,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F71E1F1B1A44A659001DD4DA /* GameCenterManager.m in Sources */,
+				F71E1F161A44A659001DD4DA /* DBUpgrades.m in Sources */,
+				F71E1F191A44A659001DD4DA /* RVRDataBaseManager.m in Sources */,
+				F71E1F181A44A659001DD4DA /* DBUserStatistics.m in Sources */,
+				F71E1F1E1A44A659001DD4DA /* GameMenu.m in Sources */,
+				F71E1F231A44A659001DD4DA /* RVRCoin.m in Sources */,
+				F71E1F281A44A659001DD4DA /* RVRInAppPurchaseStore.m in Sources */,
 				B7378994180767190076A88C /* MainScene.m in Sources */,
-				F73FDDEC1A3F8012001F7869 /* GameCenterDelegate.m in Sources */,
-				F73FDDF41A3F8012001F7869 /* PowerUp.m in Sources */,
+				F71E1F1D1A44A659001DD4DA /* GameHud.m in Sources */,
+				F71E1F141A44A659001DD4DA /* RVRAudioManager.m in Sources */,
+				F71E1F151A44A659001DD4DA /* DBPurchase.m in Sources */,
+				F71E1F211A44A659001DD4DA /* PauseOrGameOverMenu.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
-				F73FDDE51A3F8012001F7869 /* RVRPowerUpsAndPurchasesController.m in Sources */,
-				F73FDDF31A3F8012001F7869 /* PauseOrGameOverMenu.m in Sources */,
-				F73FDDE81A3F8012001F7869 /* DBUpgrades.m in Sources */,
-				F73FDDF11A3F8012001F7869 /* GameNode.m in Sources */,
-				F73FDDF81A3F8012001F7869 /* MKStoreManager.m in Sources */,
+				F71E1F201A44A659001DD4DA /* Obstacles.m in Sources */,
+				F71E1F2A1A44A659001DD4DA /* RVRPowerUpsAndPurchasesStore.m in Sources */,
+				F71E1F291A44A659001DD4DA /* UIDevice-Reachability.m in Sources */,
+				F71E1ED91A44A646001DD4DA /* RootViewController.m in Sources */,
 				5B121038197487F2004C1E1D /* AppDelegate.m in Sources */,
-				F73FDDF01A3F8012001F7869 /* GameMenu.m in Sources */,
-				F73FDDEB1A3F8012001F7869 /* RVRDataBaseManager.m in Sources */,
-				F73FDDFC1A3F8012001F7869 /* RVRPowerUpsAndPurchasesStore.m in Sources */,
-				F73FDDE71A3F8012001F7869 /* DBPurchase.m in Sources */,
-				F73FDDED1A3F8012001F7869 /* GameCenterManager.m in Sources */,
-				F73FDDEF1A3F8012001F7869 /* GameHud.m in Sources */,
-				F73FDDEA1A3F8012001F7869 /* DBUserStatistics.m in Sources */,
-				F73FDDF61A3F8012001F7869 /* TextureManager.m in Sources */,
-				F73FDDF91A3F8012001F7869 /* MKStoreObserver.m in Sources */,
-				F73FDDE91A3F8012001F7869 /* DBUserData.m in Sources */,
-				F73FDDF71A3F8012001F7869 /* LoadingView.m in Sources */,
-				F73FDDFB1A3F8012001F7869 /* UIDevice-Reachability.m in Sources */,
-				F73FDE001A3F860C001F7869 /* RootViewController.m in Sources */,
-				F73FDDF21A3F8012001F7869 /* Obstacles.m in Sources */,
-				F73FDDE61A3F8012001F7869 /* RVRAudioManager.m in Sources */,
-				F73FDDEE1A3F8012001F7869 /* BikeLayer.m in Sources */,
-				F73FDDFA1A3F8012001F7869 /* RVRInAppPurchaseStore.m in Sources */,
-				F73FDDF51A3F8012001F7869 /* RVRCoin.m in Sources */,
+				F71E1F1F1A44A659001DD4DA /* GameNode.m in Sources */,
+				F71E1F1A1A44A659001DD4DA /* GameCenterDelegate.m in Sources */,
+				F71E1F171A44A659001DD4DA /* DBUserData.m in Sources */,
+				F71E1F1C1A44A659001DD4DA /* BikeLayer.m in Sources */,
+				F71E1F271A44A659001DD4DA /* MKStoreObserver.m in Sources */,
+				F71E1F261A44A659001DD4DA /* MKStoreManager.m in Sources */,
+				F71E1F221A44A659001DD4DA /* PowerUp.m in Sources */,
+				F71E1F131A44A659001DD4DA /* RVRPowerUpsAndPurchasesController.m in Sources */,
+				F71E1F251A44A659001DD4DA /* LoadingView.m in Sources */,
+				F71E1F241A44A659001DD4DA /* TextureManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

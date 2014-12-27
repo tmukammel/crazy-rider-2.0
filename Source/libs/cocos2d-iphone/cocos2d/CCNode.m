@@ -588,6 +588,12 @@ TransformPointAsVector(CGPoint p, CGAffineTransform t)
     return CGRectApplyAffineTransform(rect, [self nodeToParentTransform]);
 }
 
+- (CGRect) boundingBoxInPixels
+{
+    CGRect rect = CGRectMake(0, 0, _contentSize.width*__ccContentScaleFactor, _contentSize.height*__ccContentScaleFactor);
+    return CGRectApplyAffineTransform(rect, [self nodeToParentTransform]);
+}
+
 -(void) setVertexZ:(float)vertexZ
 {
 	_vertexZ = vertexZ;

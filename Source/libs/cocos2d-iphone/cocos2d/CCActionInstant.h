@@ -226,6 +226,16 @@
 
 @end
 
+@interface CCActionCallFuncO : CCActionCallFunc {
+    id _object;
+}
+
+@property (nonatomic, readwrite, strong) id object;
+
++ (id) actionWithTarget: (id) t selector:(SEL) s object:(id)object;
+- (id) initWithTarget:(id) t selector:(SEL) s object:(id)object;
+
+@end
 
 /** 
  *  This actions executes a code block.
